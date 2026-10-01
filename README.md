@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información, con interés y orientación profesional hacia el desarrollo de software y la construcción de soluciones tecnológicas.
+
+
+Actualmente estoy fortaleciendo mis conocimientos en JavaScript, TypeScript, Node.js, bases de datos, APIs, desarrollo de aplicaciones y Git/GitHub, con el objetivo de continuar creciendo profesionalmente como desarrollador junior y adquirir una visión cada vez más integral del desarrollo de software.
+
+Mi experiencia en el área de Quality Assurance (QA) me ha permitido desarrollar una perspectiva orientada a la calidad del software, comprender requerimientos funcionales, identificar oportunidades de mejora y conocer diferentes etapas del ciclo de vida de una aplicación. Además, cuento con conocimientos en automatización de pruebas con Playwright, como parte de mi formación y crecimiento técnico
 <!--
 **AlexanderRoFer/AlexanderRoFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
