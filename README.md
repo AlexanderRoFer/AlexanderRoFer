@@ -9,6 +9,15 @@ I am currently strengthening my skills in 👩‍🏫JavaScript, TypeScript, Nod
 My experience 🥷in Quality Assurance (QA) has enabled me to develop a software-quality-oriented mindset⚡, understand functional requirements👌, identify opportunities for improvement✏️, and gain insight into the various stages of the application lifecycle📅. Additionally, I have acquired knowledge of test automation using Playwright💎 as part of my technical training and professional growth🚀.
 
 Contactos:
-![Likedin](icon/linkedin.png) 
-![Instagram](Icon/instagram.png) 
-![Wasap](Icon/whatsapp.png) https://wa.me/573125455557
+
+<a href="https://github.com/TU_USUARIO">
+  <img src="./icon/Git.png" width="30" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/TU_PERFIL/">
+  <img src="./icon/linkedin.png" width="30" alt="LinkedIn">
+</a>
+
+<a href="https://wa.me/573125455557">
+  <img src="./icon/whatsapp.png" width="30" alt="WhatsApp">
+</a>
