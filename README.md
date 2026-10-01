@@ -1,22 +1,14 @@
-## Hi there 👋
+## Hi 👋 I´m 🧑‍💻 Diego Alexander Roa Fernandez ✨
 
-Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información, con interés y orientación profesional hacia el desarrollo de software y la construcción de soluciones tecnológicas.
+I am🫆 an Information Systems Analysis and Development Technologist,🕵️‍♀️ with an interest in and a professional focus on software development 💻and the creation of technological solutions.🪄
 
+![Log DA](Img/Log%20DA.jpeg)
 
-Actualmente estoy fortaleciendo mis conocimientos en JavaScript, TypeScript, Node.js, bases de datos, APIs, desarrollo de aplicaciones y Git/GitHub, con el objetivo de continuar creciendo profesionalmente como desarrollador junior y adquirir una visión cada vez más integral del desarrollo de software.
+I am currently strengthening my skills in 👩‍🏫JavaScript, TypeScript, Node.js, databases, APIs, application development, and Git/GitHub🔭, with the goal of continuing to grow professionally as a junior developer💻 and gaining an increasingly comprehensive view of software development🤟.
 
-Mi experiencia en el área de Quality Assurance (QA) me ha permitido desarrollar una perspectiva orientada a la calidad del software, comprender requerimientos funcionales, identificar oportunidades de mejora y conocer diferentes etapas del ciclo de vida de una aplicación. Además, cuento con conocimientos en automatización de pruebas con Playwright, como parte de mi formación y crecimiento técnico
-<!--
-**AlexanderRoFer/AlexanderRoFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My experience 🥷in Quality Assurance (QA) has enabled me to develop a software-quality-oriented mindset⚡, understand functional requirements👌, identify opportunities for improvement✏️, and gain insight into the various stages of the application lifecycle📅. Additionally, I have acquired knowledge of test automation using Playwright💎 as part of my technical training and professional growth🚀.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contactos:
+![Likedin](icon/linkedin.png) 
+![Instagram](Icon/instagram.png) 
+![Wasap](Icon/whatsapp.png) https://wa.me/573125455557
